@@ -1,4 +1,4 @@
 {
-  "version": "1.5.4",
-  "changelog": "Tela de Canais (redesign completo)"
+  "version": "1.5.5",
+  "changelog": " (anti-hang), sessão caída→abort limpo, fim do falso-esgotamento"
 }
