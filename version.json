@@ -1,4 +1,4 @@
 {
   "version": "1.5.6",
-  "changelog": " (anti-hang), sessão caída→abort limpo, fim do falso-esgotamento"
+  "changelog": " (anti-hang) Limitação de Sessão chrome PC FRACO"
 }
